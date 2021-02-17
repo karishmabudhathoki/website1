@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/website1/static/css/main.47d6d5e0.chunk.css",
+    "main.js": "/website1/static/js/main.0fcc64cd.chunk.js",
+    "main.js.map": "/website1/static/js/main.0fcc64cd.chunk.js.map",
+    "runtime-main.js": "/website1/static/js/runtime-main.95b47904.js",
+    "runtime-main.js.map": "/website1/static/js/runtime-main.95b47904.js.map",
+    "static/js/2.7055194b.chunk.js": "/website1/static/js/2.7055194b.chunk.js",
+    "static/js/2.7055194b.chunk.js.map": "/website1/static/js/2.7055194b.chunk.js.map",
+    "index.html": "/website1/index.html",
+    "static/css/main.47d6d5e0.chunk.css.map": "/website1/static/css/main.47d6d5e0.chunk.css.map",
+    "static/js/2.7055194b.chunk.js.LICENSE.txt": "/website1/static/js/2.7055194b.chunk.js.LICENSE.txt",
+    "static/media/hh.b8280b0d.jpg": "/website1/static/media/hh.b8280b0d.jpg",
+    "static/media/hh1.731bc7f4.jpg": "/website1/static/media/hh1.731bc7f4.jpg",
+    "static/media/kari.8bda3c07.jpg": "/website1/static/media/kari.8bda3c07.jpg",
+    "static/media/m2.94fc998f.jpg": "/website1/static/media/m2.94fc998f.jpg",
+    "static/media/m3.0257e867.jpg": "/website1/static/media/m3.0257e867.jpg",
+    "static/media/me1.35b659c7.jpg": "/website1/static/media/me1.35b659c7.jpg",
+    "static/media/pp.6b1d1077.jpg": "/website1/static/media/pp.6b1d1077.jpg",
+    "static/media/prashna.94fc998f.jpg": "/website1/static/media/prashna.94fc998f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b47904.js",
+    "static/js/2.7055194b.chunk.js",
+    "static/css/main.47d6d5e0.chunk.css",
+    "static/js/main.0fcc64cd.chunk.js"
+  ]
+}
